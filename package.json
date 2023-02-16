@@ -1,0 +1,28 @@
+{
+  "name": "eslint-task",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitriyIskra/ESlint-task.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Dmitriy Iskra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DmitriyIskra/ESlint-task/issues"
+  },
+  "homepage": "https://github.com/DmitriyIskra/ESlint-task#readme",
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
